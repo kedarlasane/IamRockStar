@@ -1,0 +1,1 @@
+head.load("cdn/js/jquery.js", "cdn/js/icheck.js", "cdn/js/tips.js", "cdn/js/colorbox.js", "cdn/js/cycle.js", "cdn/js/custom.js", "cdn/js/placeholder.js", "cdn/js/modernizr.js");

@@ -1,0 +1,27 @@
+==============================================
+The Design is designed from Scratch by Kedar Lasane 
+==============================================
+#Softwares
+1: Dreamweaver
+2: Notepad
+3: Tested with Mozilla, Chrome
+==============================================
+#Images/Vectors
+1: Cart vector from PremiumPixel
+2: Navicon created from Scratch
+3: Bigrock Logo from Bigrock
+4: Sample Promo from BigRock & its Affilite Account
+==============================================
+#Tech Used
+1: HTML5
+2: CSS3
+3: Scripts: 
+    Jquery from jquery.com
+    colorbox from jackmoore.com/colorbox
+    Cycle from jquery.malsup.com 
+    poshytips from vadikom.com/poshytip/
+    uikit from http://dribbble.com/shots/991527-UI-Kit-Free-download
+    checkbox by https://github.com/fronteed/iCheck/
+    share buttons from http://dribbble.com/shots/699421--psd-Share-Buttons
+4: Responsive Design by CSS
+==============================================
